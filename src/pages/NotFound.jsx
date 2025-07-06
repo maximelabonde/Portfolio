@@ -3,8 +3,6 @@ import React from "react";
 import styled, { keyframes } from "styled-components";
 // Components
 import { Container } from "react-bootstrap";
-// Images
-import Logo from "../images/logo.svg";
 // Utils
 import { updateTitle } from "../utils";
 
