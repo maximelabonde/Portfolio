@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdaff75a.css",
-    "main.js": "/static/js/main.aa18fa1a.js",
-    "static/media/hero-dark.jpg": "/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "service-worker.js": "/service-worker.js",
-    "static/media/kasa.webp": "/static/media/kasa.77adf750e188a9883127.webp",
-    "static/media/sophie-bluel.webp": "/static/media/sophie-bluel.3ad7c5160cf87479a4c3.webp",
-    "static/media/ohmyfood.webp": "/static/media/ohmyfood.77976cc937f8b3442a27.webp",
-    "static/media/GH.svg": "/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "static/media/argent-bank.webp": "/static/media/argent-bank.a3130a5cf0381c3b1f5a.webp",
-    "static/media/portfolio.webp": "/static/media/portfolio.9e06ec393e4db0b1d38f.webp",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "static/media/development-web-development-svgrepo-com.svg": "/static/media/development-web-development-svgrepo-com.9dc0e56bf2945daec8483755f00ccdb6.svg",
-    "main.bdaff75a.css.map": "/static/css/main.bdaff75a.css.map",
-    "main.aa18fa1a.js.map": "/static/js/main.aa18fa1a.js.map"
+    "main.css": "/Portfolio/static/css/main.bdaff75a.css",
+    "main.js": "/Portfolio/static/js/main.ef84efad.js",
+    "static/media/hero-dark.jpg": "/Portfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/Portfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/media/kasa.webp": "/Portfolio/static/media/kasa.77adf750e188a9883127.webp",
+    "static/media/sophie-bluel.webp": "/Portfolio/static/media/sophie-bluel.3ad7c5160cf87479a4c3.webp",
+    "static/media/ohmyfood.webp": "/Portfolio/static/media/ohmyfood.77976cc937f8b3442a27.webp",
+    "static/media/GH.svg": "/Portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/argent-bank.webp": "/Portfolio/static/media/argent-bank.a3130a5cf0381c3b1f5a.webp",
+    "static/media/portfolio.webp": "/Portfolio/static/media/portfolio.9e06ec393e4db0b1d38f.webp",
+    "index.html": "/Portfolio/index.html",
+    "static/media/development-web-development-svgrepo-com.svg": "/Portfolio/static/media/development-web-development-svgrepo-com.066574609f36a1e1d5cbf2b90b1c2321.svg",
+    "main.bdaff75a.css.map": "/Portfolio/static/css/main.bdaff75a.css.map",
+    "main.ef84efad.js.map": "/Portfolio/static/js/main.ef84efad.js.map"
   },
   "entrypoints": [
     "static/css/main.bdaff75a.css",
-    "static/js/main.aa18fa1a.js"
+    "static/js/main.ef84efad.js"
   ]
 }
