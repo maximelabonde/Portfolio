@@ -121,7 +121,7 @@ export const projectCardImages = [
     image: argentBankImg,
   },
   {
-    name: "maximelabonde.github.io",
+    name: "Portfolio",
     image: portfolioImg,
   }
 ];
