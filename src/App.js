@@ -12,7 +12,7 @@ import {
 import { useGetUsersQuery, useGetProjectsQuery } from "./app/apiSlice";
 import PropTypes from "prop-types";
 // Router
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 // Pages
 import Home from "./pages/Home";
 import AllProjects from "./pages/AllProjects";
@@ -169,13 +169,13 @@ const App = ({ projectCardImages = [], filteredProjects = [] }) => {
     <ErrorBoundary FallbackComponent={AppFallback}>
       {/* https://reactrouter.com/6.28.0/upgrading/future#v7_starttransition */}
       {/* https://reactrouter.com/6.28.0/upgrading/future#v7_relativesplatpath */}
-      <HashRouter future={{ v7_startTransition: true, v7_relativeSplatPath: true, }}>
+      <BrowserRouter>
         <ThemeProvider theme={{ name: theme }}>
           <ScrollToTop />
           <GlobalStyles />
           {content}
         </ThemeProvider>
-      </HashRouter>
+      </BrowserRouter>
     </ErrorBoundary>
   );
 };
