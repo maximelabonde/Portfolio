@@ -169,7 +169,7 @@ const App = ({ projectCardImages = [], filteredProjects = [] }) => {
     <ErrorBoundary FallbackComponent={AppFallback}>
       {/* https://reactrouter.com/6.28.0/upgrading/future#v7_starttransition */}
       {/* https://reactrouter.com/6.28.0/upgrading/future#v7_relativesplatpath */}
-      <BrowserRouter>
+      <BrowserRouter basename="/Portfolio">
         <ThemeProvider theme={{ name: theme }}>
           <ScrollToTop />
           <GlobalStyles />
